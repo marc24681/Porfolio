@@ -1,0 +1,129 @@
+body{
+    background: linear-gradient(to bottom, black, black);
+    color: white;
+    
+}
+
+h1{
+    color:white;
+
+}
+.welcome{
+    color: white;
+    margin-top: 5cm;
+    text-align: center;
+}
+
+.navbar-toggler-icon{
+    background: black;
+}
+
+.contact{
+    color: white;
+    
+}
+.navbar-toggler{
+    background: black;
+    color: black;
+    margin-left: 1cm;
+}
+
+.nav-link{
+    color: black;
+   
+}
+
+.navbar-brand{
+    color: black;
+   
+}
+
+.button-contact{
+    text-align: center;
+}
+.card-deck{
+    margin-top: middle;
+}
+.card{
+    margin-top: 2cm;
+    margin-top: middle;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card-link{
+    color:white;
+}
+
+.header-1{
+    text-align: center;
+    margin-top: 2cm;
+}
+.c_resume{
+    margin-top: 2cm;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mar{
+    margin-top: 2cm;
+    margin-top: middle;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
+}
+
+.mar-1{
+    margin-top: 1cm;
+    margin-top: middle;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
+}
+
+.res{
+    margin-top: 1cm;
+    margin-top: middle;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.resume-css{
+    color: white;
+    margin-bottom: 1cm;
+    margin-top:1cm;
+}
+
+.image-fluid{
+    width: 100%;
+    max-width: 800px;
+    height: auto;
+    margin-top: 1cm;
+    
+}
+
+.image-fluid1{
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+    margin-top: 1cm;
+    
+}
+
+.responsive{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+@media screen and (max-width:500px){
+    .responsive img{
+        width: 100%;
+        height: auto;
+    }
+}
+    
